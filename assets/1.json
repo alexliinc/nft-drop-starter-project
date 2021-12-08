@@ -1,0 +1,19 @@
+{
+  "name": "Fushiguro",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "AsXyTiSgd4dpSsqnGTPGK5FvdLJvFXMxVgD1Tg2LrHFA",
+        "share": 100
+      }
+    ]
+  }
+}
